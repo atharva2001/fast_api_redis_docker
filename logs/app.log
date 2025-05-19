@@ -1,0 +1,8 @@
+2025-05-18 08:47:04,377 - INFO - Cache miss for ID: 1
+2025-05-18 08:47:10,108 - INFO - Cache hit for ID: 1
+2025-05-18 08:56:13,646 - INFO - Cache miss for all todos
+2025-05-18 08:56:20,577 - INFO - Cache hit for all todos
+2025-05-18 08:56:30,741 - INFO - Cache hit for all todos
+2025-05-18 08:56:42,892 - INFO - Cache miss for ID: 1
+2025-05-18 08:56:46,794 - INFO - Cache hit for ID: 1
+2025-05-18 08:57:19,606 - INFO - Cache hit for all todos
